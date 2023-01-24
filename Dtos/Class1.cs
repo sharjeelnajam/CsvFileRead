@@ -6,5 +6,6 @@
         public int age { get; set; }
         public string Address { get; set; }
         public int mark { get; set; }
+        public string cnic { get; set; }
     }
 }
