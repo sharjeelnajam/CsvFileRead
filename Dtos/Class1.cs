@@ -2,6 +2,7 @@
 {
     public class Class1
     {
+        public int id { get; set; }
         public int StdId { get; set; }
         public int age { get; set; }
         public string Address { get; set; }
