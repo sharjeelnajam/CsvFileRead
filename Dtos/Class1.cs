@@ -5,6 +5,6 @@
         public int MyProperty { get; set; }
         public int age { get; set; }
         public string Address { get; set; }
-        public int salary { get; set; }
+        public int marks { get; set; }
     }
 }
