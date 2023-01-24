@@ -9,6 +9,7 @@
         public int mark { get; set; }
         public string cnic { get; set; }
         public string Position { get; set; }
+        public string FamilyName { get; set; }
 
     }
 }
